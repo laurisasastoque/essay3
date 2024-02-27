@@ -1,0 +1,461 @@
+Source,Target,Weight,Type
+​​​​​​wiggy_Young Miko,105 Freestyle_Young Miko,3,undirected
+​​​​​​wiggy_Young Miko,Castigada_Young Miko,1,undirected
+​​​​​​wiggy_Young Miko,Que Le Gusta el Flow_Snow Tha Product,2,undirected
+​​​mañana_Young Miko,105 Freestyle_Young Miko,2,undirected
+​​​mañana_Young Miko,Curitas_Chzter,1,undirected
+​​​mañana_Young Miko,young_miko_metadata.rda,3,undirected
+105 Freestyle_Young Miko,​​​​​​wiggy_Young Miko,3,undirected
+105 Freestyle_Young Miko,​​​mañana_Young Miko,2,undirected
+105 Freestyle_Young Miko,2seater_Young Miko,2,undirected
+105 Freestyle_Young Miko,8 AM_Young Miko,2,undirected
+105 Freestyle_Young Miko,AMG_Gudnana,1,undirected
+105 Freestyle_Young Miko,Besties (Remix)_Young Miko,2,undirected
+105 Freestyle_Young Miko,CC (Remix)_Young Miko,1,undirected
+105 Freestyle_Young Miko,Chapa_Valen Etchegoyen,2,undirected
+105 Freestyle_Young Miko,Hedonismo_Villano Antillano,4,undirected
+105 Freestyle_Young Miko,Kachipun_Young Miko,6,undirected
+105 Freestyle_Young Miko,Kilimanjaro_Young Miko,4,undirected
+105 Freestyle_Young Miko,Linda_Tokischa & Rosalía,3,undirected
+105 Freestyle_Young Miko,Lisa_Young Miko,3,undirected
+105 Freestyle_Young Miko,Puerto Rican Mami_Young Miko,1,undirected
+105 Freestyle_Young Miko,Pull Up_Young Miko,2,undirected
+105 Freestyle_Young Miko,Saturno_Young Miko,2,undirected
+105 Freestyle_Young Miko,Stripper X_Young Miko,2,undirected
+105 Freestyle_Young Miko,Un Poquito_Young Miko,1,undirected
+105 Freestyle_Young Miko,Vientitres_Gudnana,1,undirected
+2seater_Young Miko,105 Freestyle_Young Miko,2,undirected
+2seater_Young Miko,Kachipun_Young Miko,3,undirected
+2seater_Young Miko,SALVAJE_Young Miko,1,undirected
+8 AM_Young Miko,105 Freestyle_Young Miko,2,undirected
+8 AM_Young Miko,SALVAJE_Young Miko,1,undirected
+8 AM_Young Miko,young_miko_metadata.rda,3,undirected
+Acento_Young Miko,Kilimanjaro_Young Miko,2,undirected
+Acento_Young Miko,Lisa_Young Miko,1,undirected
+Acento_Young Miko,Stripper X_Young Miko,6,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,AMG_Gudnana,3,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Ayer Soñé_Chzter,3,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Bien Bow_Chocolate Remix,2,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Deseándote_Nath,2,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Desperte_Chzter,3,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Es un 10_Gudnana,1,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Estás Que Te Partes_Chocolate Remix,5,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Hipnotiza_Maria Becerra,1,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Lick My Pssy_Chzter,3,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Más Allá de Mis Ojeras_Chzter,2,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Mátame Marciana_Chzter,4,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Muevas las Cachas_Chocolate Remix,2,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Pasajero_Nath,2,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Pornostar_Chocolate Remix,3,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,QLONA_KAROL G,1,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Three Now_Valen Etchegoyen,1,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,Vientitres_Gudnana,2,undirected
+AKA LESBIANA SERPIENTA_SASHA SATHYA,young_miko_metadata.rda,3,undirected
+Amandita_Young Miko,Aprovéchame BB_Young Miko,1,undirected
+Amandita_Young Miko,FINA_Young Miko,3,undirected
+Amandita_Young Miko,Kilimanjaro_Young Miko,2,undirected
+AMG_Gudnana,105 Freestyle_Young Miko,1,undirected
+AMG_Gudnana,AKA LESBIANA SERPIENTA_SASHA SATHYA,3,undirected
+AMG_Gudnana,Como Me Gusta a Mi_Chocolate Remix,2,undirected
+AMG_Gudnana,QLONA_KAROL G,2,undirected
+Aprovéchame BB_Young Miko,Amandita_Young Miko,1,undirected
+Aprovéchame BB_Young Miko,Chulo pt.2_Young Miko,2,undirected
+Aprovéchame BB_Young Miko,COLMILLO_Young Miko,3,undirected
+Aprovéchame BB_Young Miko,Kachipun_Young Miko,1,undirected
+Aprovéchame BB_Young Miko,Sale el Sol_Young Miko,1,undirected
+Aprovéchame BB_Young Miko,Señorita_Young Miko,2,undirected
+Ayer Soñé_Chzter,AKA LESBIANA SERPIENTA_SASHA SATHYA,3,undirected
+Ayer Soñé_Chzter,Estás Que Te Partes_Chocolate Remix,1,undirected
+Ayer Soñé_Chzter,young_miko_metadata.rda,2,undirected
+Besties (Remix)_Young Miko,105 Freestyle_Young Miko,2,undirected
+Besties (Remix)_Young Miko,De Pasajero_Young Miko,5,undirected
+Besties (Remix)_Young Miko,Kachipun_Young Miko,1,undirected
+Bi_Young Miko,Condado_Young Miko,1,undirected
+Bi_Young Miko,Hedonismo_Villano Antillano,2,undirected
+Bi_Young Miko,Kachipun_Young Miko,3,undirected
+Bien Bow_Chocolate Remix,AKA LESBIANA SERPIENTA_SASHA SATHYA,2,undirected
+Bien Bow_Chocolate Remix,Hedonismo_Villano Antillano,1,undirected
+Bien Bow_Chocolate Remix,young_miko_metadata.rda,3,undirected
+Big Booty_Young Miko,Brinca_Young Miko,2,undirected
+Big Booty_Young Miko,FINA_Young Miko,1,undirected
+Big Booty_Young Miko,Kilimanjaro_Young Miko,3,undirected
+Big Booty_Young Miko,Señorita_Young Miko,1,undirected
+Bilingue_Snow Tha Product,Hedonismo_Villano Antillano,2,undirected
+Bilingue_Snow Tha Product,Muñekita_Kali Uchis,3,undirected
+Bilingue_Snow Tha Product,young_miko_metadata.rda,1,undirected
+Brinca_Young Miko,Big Booty_Young Miko,2,undirected
+Brinca_Young Miko,CC (Remix)_Young Miko,2,undirected
+Brinca_Young Miko,Chulo pt.2_Young Miko,6,undirected
+Brinca_Young Miko,Classy 101_Young Miko,3,undirected
+Brinca_Young Miko,COLMILLO_Young Miko,2,undirected
+Brinca_Young Miko,De Pasajero_Young Miko,1,undirected
+Brinca_Young Miko,FINA_Young Miko,3,undirected
+Brinca_Young Miko,Kachipun_Young Miko,2,undirected
+Brinca_Young Miko,Lisa_Young Miko,2,undirected
+Brinca_Young Miko,Riri_Young Miko,2,undirected
+Brinca_Young Miko,SALVAJE_Young Miko,1,undirected
+Brinca_Young Miko,Tempo_Young Miko,1,undirected
+Butter_Snow Tha Product,Muñekita_Kali Uchis,1,undirected
+Butter_Snow Tha Product,Trending_Young Miko,3,undirected
+Butter_Snow Tha Product,young_miko_metadata.rda,3,undirected
+Castigada_Young Miko,​​​​​​wiggy_Young Miko,1,undirected
+Castigada_Young Miko,Chulo pt.2_Young Miko,3,undirected
+Castigada_Young Miko,Kachipun_Young Miko,2,undirected
+Castigada_Young Miko,Peli-culeo_Cazzu,1,undirected
+CC (Remix)_Young Miko,105 Freestyle_Young Miko,1,undirected
+CC (Remix)_Young Miko,Brinca_Young Miko,2,undirected
+CC (Remix)_Young Miko,Kachipun_Young Miko,3,undirected
+Chapa_Valen Etchegoyen,105 Freestyle_Young Miko,2,undirected
+Chapa_Valen Etchegoyen,Estás Que Te Partes_Chocolate Remix,1,undirected
+Chapa_Valen Etchegoyen,Kachipun_Young Miko,3,undirected
+Chulo pt.2_Young Miko,Aprovéchame BB_Young Miko,2,undirected
+Chulo pt.2_Young Miko,Brinca_Young Miko,6,undirected
+Chulo pt.2_Young Miko,Castigada_Young Miko,3,undirected
+Chulo pt.2_Young Miko,Classy 101_Young Miko,2,undirected
+Chulo pt.2_Young Miko,COLMILLO_Young Miko,3,undirected
+Chulo pt.2_Young Miko,Condado_Young Miko,1,undirected
+Chulo pt.2_Young Miko,DISPO_Young Miko,1,undirected
+Chulo pt.2_Young Miko,FINA_Young Miko,1,undirected
+Chulo pt.2_Young Miko,ID_Young Miko,5,undirected
+Chulo pt.2_Young Miko,Kachipun_Young Miko,1,undirected
+Chulo pt.2_Young Miko,Labios Mordidos_Kali Uchis & KAROL G,2,undirected
+Chulo pt.2_Young Miko,Peli-culeo_Cazzu,1,undirected
+Chulo pt.2_Young Miko,Piña_Snow Tha Product,2,undirected
+Chulo pt.2_Young Miko,Pretty Bad Bitch_Young Miko,1,undirected
+Chulo pt.2_Young Miko,Un Poquito_Young Miko,3,undirected
+Classy 101_Young Miko,Brinca_Young Miko,3,undirected
+Classy 101_Young Miko,Chulo pt.2_Young Miko,2,undirected
+Classy 101_Young Miko,COLMILLO_Young Miko,1,undirected
+COLMILLO_Young Miko,Aprovéchame BB_Young Miko,3,undirected
+COLMILLO_Young Miko,Brinca_Young Miko,2,undirected
+COLMILLO_Young Miko,Chulo pt.2_Young Miko,3,undirected
+COLMILLO_Young Miko,Classy 101_Young Miko,1,undirected
+COLMILLO_Young Miko,Deseándote_Nath,4,undirected
+COLMILLO_Young Miko,Labios Mordidos_Kali Uchis & KAROL G,1,undirected
+COLMILLO_Young Miko,Que Le Gusta el Flow_Snow Tha Product,1,undirected
+COLMILLO_Young Miko,Señorita_Young Miko,3,undirected
+Como Me Gusta a Mi_Chocolate Remix,AMG_Gudnana,2,undirected
+Como Me Gusta a Mi_Chocolate Remix,Estás Que Te Partes_Chocolate Remix,3,undirected
+Como Me Gusta a Mi_Chocolate Remix,Hedonismo_Villano Antillano,2,undirected
+Como Me Gusta a Mi_Chocolate Remix,Pornostar_Chocolate Remix,1,undirected
+Condado_Young Miko,Bi_Young Miko,1,undirected
+Condado_Young Miko,Chulo pt.2_Young Miko,1,undirected
+Condado_Young Miko,DISPO_Young Miko,3,undirected
+Condado_Young Miko,Kachipun_Young Miko,5,undirected
+Condado_Young Miko,Lisa_Young Miko,1,undirected
+Condado_Young Miko,Peli-culeo_Cazzu,4,undirected
+Condado_Young Miko,Putero_Young Miko,1,undirected
+Condado_Young Miko,Riri_Young Miko,1,undirected
+CONTIGO_KAROL G,Hedonismo_Villano Antillano,2,undirected
+CONTIGO_KAROL G,Mátame Marciana_Chzter,1,undirected
+CONTIGO_KAROL G,young_miko_metadata.rda,3,undirected
+corpus_metadata.rda,Pull Up_Young Miko,1,undirected
+corpus_metadata.rda,Three Now_Valen Etchegoyen,2,undirected
+corpus_metadata.rda,young_miko_metadata.rda,6,undirected
+Cuando Te Toca_Young Miko,Deseándote_Nath,2,undirected
+Cuando Te Toca_Young Miko,ID_Young Miko,1,undirected
+Cuando Te Toca_Young Miko,Kachipun_Young Miko,3,undirected
+Curitas_Chzter,​​​mañana_Young Miko,1,undirected
+Curitas_Chzter,En Esta Boca_Young Miko,2,undirected
+Curitas_Chzter,Mátame Marciana_Chzter,1,undirected
+Curitas_Chzter,young_miko_metadata.rda,3,undirected
+Dándote_Cazzu,Estás Que Te Partes_Chocolate Remix,5,undirected
+Dándote_Cazzu,Kachipun_Young Miko,2,undirected
+Dándote_Cazzu,Mátame Marciana_Chzter,1,undirected
+Dándote_Cazzu,Sale el Sol_Young Miko,2,undirected
+De Pasajero_Young Miko,Besties (Remix)_Young Miko,5,undirected
+De Pasajero_Young Miko,Brinca_Young Miko,1,undirected
+De Pasajero_Young Miko,Kachipun_Young Miko,3,undirected
+De Pasajero_Young Miko,Pretty Bad Bitch_Young Miko,2,undirected
+De Pasajero_Young Miko,Puerto Rican Mami_Young Miko,2,undirected
+De Pasajero_Young Miko,Standard_Young Miko,3,undirected
+Deseándote_Nath,AKA LESBIANA SERPIENTA_SASHA SATHYA,2,undirected
+Deseándote_Nath,COLMILLO_Young Miko,4,undirected
+Deseándote_Nath,Cuando Te Toca_Young Miko,2,undirected
+Deseándote_Nath,Hedonismo_Villano Antillano,1,undirected
+Deseándote_Nath,Mariposa_Isabella Lovestory,2,undirected
+Deseándote_Nath,Sale el Sol_Young Miko,3,undirected
+Desperte_Chzter,AKA LESBIANA SERPIENTA_SASHA SATHYA,3,undirected
+Desperte_Chzter,Kachipun_Young Miko,2,undirected
+Desperte_Chzter,Pornostar_Chocolate Remix,1,undirected
+Dime Como Hago_Maria Becerra,Estás Que Te Partes_Chocolate Remix,3,undirected
+Dime Como Hago_Maria Becerra,Three Now_Valen Etchegoyen,2,undirected
+Dime Como Hago_Maria Becerra,young_miko_metadata.rda,1,undirected
+DISPO_Young Miko,Chulo pt.2_Young Miko,1,undirected
+DISPO_Young Miko,Condado_Young Miko,3,undirected
+DISPO_Young Miko,Peli-culeo_Cazzu,2,undirected
+En Esta Boca_Young Miko,Curitas_Chzter,2,undirected
+En Esta Boca_Young Miko,Estás Que Te Partes_Chocolate Remix,2,undirected
+En Esta Boca_Young Miko,INSPIRADORA_Maria Becerra,3,undirected
+En Esta Boca_Young Miko,Mátame Marciana_Chzter,1,undirected
+En Esta Boca_Young Miko,Me Doy Cuenta_Valen Etchegoyen,1,undirected
+En Esta Boca_Young Miko,No Intentes Regresar_Valen Etchegoyen,1,undirected
+En Esta Boca_Young Miko,Pasajero_Nath,1,undirected
+En Esta Boca_Young Miko,Three Now_Valen Etchegoyen,5,undirected
+Es un 10_Gudnana,AKA LESBIANA SERPIENTA_SASHA SATHYA,1,undirected
+Es un 10_Gudnana,Hedonismo_Villano Antillano,2,undirected
+Es un 10_Gudnana,Pasajero_Nath,3,undirected
+Estás Que Te Partes_Chocolate Remix,AKA LESBIANA SERPIENTA_SASHA SATHYA,5,undirected
+Estás Que Te Partes_Chocolate Remix,Ayer Soñé_Chzter,1,undirected
+Estás Que Te Partes_Chocolate Remix,Chapa_Valen Etchegoyen,1,undirected
+Estás Que Te Partes_Chocolate Remix,Como Me Gusta a Mi_Chocolate Remix,3,undirected
+Estás Que Te Partes_Chocolate Remix,Dándote_Cazzu,5,undirected
+Estás Que Te Partes_Chocolate Remix,Dime Como Hago_Maria Becerra,3,undirected
+Estás Que Te Partes_Chocolate Remix,En Esta Boca_Young Miko,2,undirected
+Estás Que Te Partes_Chocolate Remix,Hedonismo_Villano Antillano,1,undirected
+Estás Que Te Partes_Chocolate Remix,Mátame Marciana_Chzter,2,undirected
+Estás Que Te Partes_Chocolate Remix,Muevas las Cachas_Chocolate Remix,1,undirected
+Estás Que Te Partes_Chocolate Remix,Pornostar_Chocolate Remix,1,undirected
+FINA_Young Miko,Amandita_Young Miko,3,undirected
+FINA_Young Miko,Big Booty_Young Miko,1,undirected
+FINA_Young Miko,Brinca_Young Miko,3,undirected
+FINA_Young Miko,Chulo pt.2_Young Miko,1,undirected
+FINA_Young Miko,Kachipun_Young Miko,3,undirected
+FINA_Young Miko,KLKNTOKI_Nath,3,undirected
+FINA_Young Miko,SALVAJE_Young Miko,2,undirected
+Hedonismo_Villano Antillano,105 Freestyle_Young Miko,4,undirected
+Hedonismo_Villano Antillano,Bi_Young Miko,2,undirected
+Hedonismo_Villano Antillano,Bien Bow_Chocolate Remix,1,undirected
+Hedonismo_Villano Antillano,Bilingue_Snow Tha Product,2,undirected
+Hedonismo_Villano Antillano,Como Me Gusta a Mi_Chocolate Remix,2,undirected
+Hedonismo_Villano Antillano,CONTIGO_KAROL G,2,undirected
+Hedonismo_Villano Antillano,Deseándote_Nath,1,undirected
+Hedonismo_Villano Antillano,Es un 10_Gudnana,2,undirected
+Hedonismo_Villano Antillano,Estás Que Te Partes_Chocolate Remix,1,undirected
+Hedonismo_Villano Antillano,Kachipun_Young Miko,4,undirected
+Hedonismo_Villano Antillano,Linda_Tokischa & Rosalía,1,undirected
+Hedonismo_Villano Antillano,Muñekita_Kali Uchis,2,undirected
+Hedonismo_Villano Antillano,Nieve_Snow Tha Product,1,undirected
+Hedonismo_Villano Antillano,Que Le Gusta el Flow_Snow Tha Product,3,undirected
+Hipnotiza_Maria Becerra,AKA LESBIANA SERPIENTA_SASHA SATHYA,1,undirected
+Hipnotiza_Maria Becerra,Más Allá de Mis Ojeras_Chzter,2,undirected
+Hipnotiza_Maria Becerra,young_miko_metadata.rda,3,undirected
+ID_Young Miko,Chulo pt.2_Young Miko,5,undirected
+ID_Young Miko,Cuando Te Toca_Young Miko,1,undirected
+ID_Young Miko,Kachipun_Young Miko,1,undirected
+ID_Young Miko,Pretty Bad Bitch_Young Miko,5,undirected
+INSPIRADORA_Maria Becerra,En Esta Boca_Young Miko,3,undirected
+INSPIRADORA_Maria Becerra,Kachipun_Young Miko,1,undirected
+INSPIRADORA_Maria Becerra,Three Now_Valen Etchegoyen,2,undirected
+Kachipun_Young Miko,105 Freestyle_Young Miko,6,undirected
+Kachipun_Young Miko,2seater_Young Miko,3,undirected
+Kachipun_Young Miko,Aprovéchame BB_Young Miko,1,undirected
+Kachipun_Young Miko,Besties (Remix)_Young Miko,1,undirected
+Kachipun_Young Miko,Bi_Young Miko,3,undirected
+Kachipun_Young Miko,Brinca_Young Miko,2,undirected
+Kachipun_Young Miko,Castigada_Young Miko,2,undirected
+Kachipun_Young Miko,CC (Remix)_Young Miko,3,undirected
+Kachipun_Young Miko,Chapa_Valen Etchegoyen,3,undirected
+Kachipun_Young Miko,Chulo pt.2_Young Miko,1,undirected
+Kachipun_Young Miko,Condado_Young Miko,5,undirected
+Kachipun_Young Miko,Cuando Te Toca_Young Miko,3,undirected
+Kachipun_Young Miko,Dándote_Cazzu,2,undirected
+Kachipun_Young Miko,De Pasajero_Young Miko,3,undirected
+Kachipun_Young Miko,Desperte_Chzter,2,undirected
+Kachipun_Young Miko,FINA_Young Miko,3,undirected
+Kachipun_Young Miko,Hedonismo_Villano Antillano,4,undirected
+Kachipun_Young Miko,ID_Young Miko,1,undirected
+Kachipun_Young Miko,INSPIRADORA_Maria Becerra,1,undirected
+Kachipun_Young Miko,Kilimanjaro_Young Miko,2,undirected
+Kachipun_Young Miko,Peli-culeo_Cazzu,3,undirected
+Kachipun_Young Miko,Pornostar_Chocolate Remix,2,undirected
+Kachipun_Young Miko,Putero_Young Miko,3,undirected
+Kachipun_Young Miko,Standard_Young Miko,1,undirected
+Kachipun_Young Miko,Un Poquito_Young Miko,2,undirected
+Kachipun_Young Miko,Vendetta_Young Miko,2,undirected
+Kilimanjaro_Young Miko,105 Freestyle_Young Miko,4,undirected
+Kilimanjaro_Young Miko,Acento_Young Miko,2,undirected
+Kilimanjaro_Young Miko,Amandita_Young Miko,2,undirected
+Kilimanjaro_Young Miko,Big Booty_Young Miko,3,undirected
+Kilimanjaro_Young Miko,Kachipun_Young Miko,2,undirected
+Kilimanjaro_Young Miko,Trending_Young Miko,3,undirected
+Kilimanjaro_Young Miko,Vendetta_Young Miko,2,undirected
+KLKNTOKI_Nath,FINA_Young Miko,3,undirected
+KLKNTOKI_Nath,Peli-culeo_Cazzu,1,undirected
+KLKNTOKI_Nath,Que Le Gusta el Flow_Snow Tha Product,2,undirected
+Labios Mordidos_Kali Uchis & KAROL G,Chulo pt.2_Young Miko,2,undirected
+Labios Mordidos_Kali Uchis & KAROL G,COLMILLO_Young Miko,1,undirected
+Labios Mordidos_Kali Uchis & KAROL G,Peli-culeo_Cazzu,3,undirected
+Lick My Pssy_Chzter,AKA LESBIANA SERPIENTA_SASHA SATHYA,3,undirected
+Lick My Pssy_Chzter,Smoke Break_Young Miko,2,undirected
+Lick My Pssy_Chzter,Three Now_Valen Etchegoyen,1,undirected
+Lick My Pssy_Chzter,young_miko_metadata.rda,2,undirected
+Linda_Tokischa & Rosalía,105 Freestyle_Young Miko,3,undirected
+Linda_Tokischa & Rosalía,Hedonismo_Villano Antillano,1,undirected
+Linda_Tokischa & Rosalía,young_miko_metadata.rda,2,undirected
+Lisa_Young Miko,105 Freestyle_Young Miko,3,undirected
+Lisa_Young Miko,Acento_Young Miko,1,undirected
+Lisa_Young Miko,Brinca_Young Miko,2,undirected
+Lisa_Young Miko,Condado_Young Miko,1,undirected
+Lisa_Young Miko,SALVAJE_Young Miko,3,undirected
+Mariposa_Isabella Lovestory,Deseándote_Nath,2,undirected
+Mariposa_Isabella Lovestory,Mátame Marciana_Chzter,1,undirected
+Mariposa_Isabella Lovestory,young_miko_metadata.rda,3,undirected
+Más Allá de Mis Ojeras_Chzter,AKA LESBIANA SERPIENTA_SASHA SATHYA,2,undirected
+Más Allá de Mis Ojeras_Chzter,Hipnotiza_Maria Becerra,2,undirected
+Más Allá de Mis Ojeras_Chzter,Pornostar_Chocolate Remix,3,undirected
+Más Allá de Mis Ojeras_Chzter,young_miko_metadata.rda,1,undirected
+Mátame Marciana_Chzter,AKA LESBIANA SERPIENTA_SASHA SATHYA,4,undirected
+Mátame Marciana_Chzter,CONTIGO_KAROL G,1,undirected
+Mátame Marciana_Chzter,Curitas_Chzter,1,undirected
+Mátame Marciana_Chzter,Dándote_Cazzu,1,undirected
+Mátame Marciana_Chzter,En Esta Boca_Young Miko,1,undirected
+Mátame Marciana_Chzter,Estás Que Te Partes_Chocolate Remix,2,undirected
+Mátame Marciana_Chzter,Mariposa_Isabella Lovestory,1,undirected
+Mátame Marciana_Chzter,young_miko_metadata.rda,2,undirected
+Me Doy Cuenta_Valen Etchegoyen,En Esta Boca_Young Miko,1,undirected
+Me Doy Cuenta_Valen Etchegoyen,Smoke Break_Young Miko,1,undirected
+Me Doy Cuenta_Valen Etchegoyen,Three Now_Valen Etchegoyen,2,undirected
+Me Doy Cuenta_Valen Etchegoyen,young_miko_metadata.rda,3,undirected
+Muevas las Cachas_Chocolate Remix,AKA LESBIANA SERPIENTA_SASHA SATHYA,2,undirected
+Muevas las Cachas_Chocolate Remix,Estás Que Te Partes_Chocolate Remix,1,undirected
+Muevas las Cachas_Chocolate Remix,young_miko_metadata.rda,3,undirected
+Muñekita_Kali Uchis,Bilingue_Snow Tha Product,3,undirected
+Muñekita_Kali Uchis,Butter_Snow Tha Product,1,undirected
+Muñekita_Kali Uchis,Hedonismo_Villano Antillano,2,undirected
+Muñekita_Kali Uchis,Nieve_Snow Tha Product,2,undirected
+Muñekita_Kali Uchis,Riri_Young Miko,3,undirected
+Muñekita_Kali Uchis,Stripper Diaries (Skit)_Young Miko,1,undirected
+Muñekita_Kali Uchis,Tempo_Young Miko,2,undirected
+Muñekita_Kali Uchis,Trending_Young Miko,2,undirected
+Muñekita_Kali Uchis,Vendetta_Young Miko,4,undirected
+Muñekita_Kali Uchis,young_miko_metadata.rda,3,undirected
+Nieve_Snow Tha Product,Hedonismo_Villano Antillano,1,undirected
+Nieve_Snow Tha Product,Muñekita_Kali Uchis,2,undirected
+Nieve_Snow Tha Product,young_miko_metadata.rda,3,undirected
+No Intentes Regresar_Valen Etchegoyen,En Esta Boca_Young Miko,1,undirected
+No Intentes Regresar_Valen Etchegoyen,Saturno_Young Miko,6,undirected
+No Intentes Regresar_Valen Etchegoyen,young_miko_metadata.rda,2,undirected
+Pasajero_Nath,AKA LESBIANA SERPIENTA_SASHA SATHYA,2,undirected
+Pasajero_Nath,En Esta Boca_Young Miko,1,undirected
+Pasajero_Nath,Es un 10_Gudnana,3,undirected
+Pasajero_Nath,Saturno_Young Miko,1,undirected
+Pasajero_Nath,young_miko_metadata.rda,3,undirected
+Peli-culeo_Cazzu,Castigada_Young Miko,1,undirected
+Peli-culeo_Cazzu,Chulo pt.2_Young Miko,1,undirected
+Peli-culeo_Cazzu,Condado_Young Miko,4,undirected
+Peli-culeo_Cazzu,DISPO_Young Miko,2,undirected
+Peli-culeo_Cazzu,Kachipun_Young Miko,3,undirected
+Peli-culeo_Cazzu,KLKNTOKI_Nath,1,undirected
+Peli-culeo_Cazzu,Labios Mordidos_Kali Uchis & KAROL G,3,undirected
+Piña_Snow Tha Product,Chulo pt.2_Young Miko,2,undirected
+Piña_Snow Tha Product,Que Le Gusta el Flow_Snow Tha Product,1,undirected
+Piña_Snow Tha Product,young_miko_metadata.rda,3,undirected
+Pornostar_Chocolate Remix,AKA LESBIANA SERPIENTA_SASHA SATHYA,3,undirected
+Pornostar_Chocolate Remix,Como Me Gusta a Mi_Chocolate Remix,1,undirected
+Pornostar_Chocolate Remix,Desperte_Chzter,1,undirected
+Pornostar_Chocolate Remix,Estás Que Te Partes_Chocolate Remix,1,undirected
+Pornostar_Chocolate Remix,Kachipun_Young Miko,2,undirected
+Pornostar_Chocolate Remix,Más Allá de Mis Ojeras_Chzter,3,undirected
+Pretty Bad Bitch_Young Miko,Chulo pt.2_Young Miko,1,undirected
+Pretty Bad Bitch_Young Miko,De Pasajero_Young Miko,2,undirected
+Pretty Bad Bitch_Young Miko,ID_Young Miko,5,undirected
+Puerto Rican Mami_Young Miko,105 Freestyle_Young Miko,1,undirected
+Puerto Rican Mami_Young Miko,De Pasajero_Young Miko,2,undirected
+Puerto Rican Mami_Young Miko,young_miko_metadata.rda,3,undirected
+Pull Up_Young Miko,105 Freestyle_Young Miko,2,undirected
+Pull Up_Young Miko,corpus_metadata.rda,1,undirected
+Pull Up_Young Miko,Three Now_Valen Etchegoyen,1,undirected
+Pull Up_Young Miko,young_miko_metadata.rda,4,undirected
+Putero_Young Miko,Condado_Young Miko,1,undirected
+Putero_Young Miko,Kachipun_Young Miko,3,undirected
+Putero_Young Miko,young_miko_metadata.rda,2,undirected
+QLONA_KAROL G,AKA LESBIANA SERPIENTA_SASHA SATHYA,1,undirected
+QLONA_KAROL G,AMG_Gudnana,2,undirected
+QLONA_KAROL G,young_miko_metadata.rda,3,undirected
+Que Le Gusta el Flow_Snow Tha Product,​​​​​​wiggy_Young Miko,2,undirected
+Que Le Gusta el Flow_Snow Tha Product,COLMILLO_Young Miko,1,undirected
+Que Le Gusta el Flow_Snow Tha Product,Hedonismo_Villano Antillano,3,undirected
+Que Le Gusta el Flow_Snow Tha Product,KLKNTOKI_Nath,2,undirected
+Que Le Gusta el Flow_Snow Tha Product,Piña_Snow Tha Product,1,undirected
+Que Le Gusta el Flow_Snow Tha Product,young_miko_metadata.rda,2,undirected
+Riri_Young Miko,Brinca_Young Miko,2,undirected
+Riri_Young Miko,Condado_Young Miko,1,undirected
+Riri_Young Miko,Muñekita_Kali Uchis,3,undirected
+Sale el Sol_Young Miko,Aprovéchame BB_Young Miko,1,undirected
+Sale el Sol_Young Miko,Dándote_Cazzu,2,undirected
+Sale el Sol_Young Miko,Deseándote_Nath,3,undirected
+SALVAJE_Young Miko,2seater_Young Miko,1,undirected
+SALVAJE_Young Miko,8 AM_Young Miko,1,undirected
+SALVAJE_Young Miko,Brinca_Young Miko,1,undirected
+SALVAJE_Young Miko,FINA_Young Miko,2,undirected
+SALVAJE_Young Miko,Lisa_Young Miko,3,undirected
+Saturno_Young Miko,105 Freestyle_Young Miko,2,undirected
+Saturno_Young Miko,No Intentes Regresar_Valen Etchegoyen,6,undirected
+Saturno_Young Miko,Pasajero_Nath,1,undirected
+Señorita_Young Miko,Aprovéchame BB_Young Miko,2,undirected
+Señorita_Young Miko,Big Booty_Young Miko,1,undirected
+Señorita_Young Miko,COLMILLO_Young Miko,3,undirected
+Smoke Break_Young Miko,Lick My Pssy_Chzter,2,undirected
+Smoke Break_Young Miko,Me Doy Cuenta_Valen Etchegoyen,1,undirected
+Smoke Break_Young Miko,young_miko_metadata.rda,3,undirected
+Standard_Young Miko,De Pasajero_Young Miko,3,undirected
+Standard_Young Miko,Kachipun_Young Miko,1,undirected
+Standard_Young Miko,young_miko_metadata.rda,2,undirected
+Stripper Diaries (Skit)_Young Miko,Muñekita_Kali Uchis,1,undirected
+Stripper Diaries (Skit)_Young Miko,Three Now_Valen Etchegoyen,2,undirected
+Stripper Diaries (Skit)_Young Miko,young_miko_metadata.rda,3,undirected
+Stripper X_Young Miko,105 Freestyle_Young Miko,2,undirected
+Stripper X_Young Miko,Acento_Young Miko,6,undirected
+Stripper X_Young Miko,young_miko_metadata.rda,1,undirected
+Tempo_Young Miko,Brinca_Young Miko,1,undirected
+Tempo_Young Miko,Muñekita_Kali Uchis,2,undirected
+Tempo_Young Miko,young_miko_metadata.rda,3,undirected
+Three Now_Valen Etchegoyen,AKA LESBIANA SERPIENTA_SASHA SATHYA,1,undirected
+Three Now_Valen Etchegoyen,corpus_metadata.rda,2,undirected
+Three Now_Valen Etchegoyen,Dime Como Hago_Maria Becerra,2,undirected
+Three Now_Valen Etchegoyen,En Esta Boca_Young Miko,5,undirected
+Three Now_Valen Etchegoyen,INSPIRADORA_Maria Becerra,2,undirected
+Three Now_Valen Etchegoyen,Lick My Pssy_Chzter,1,undirected
+Three Now_Valen Etchegoyen,Me Doy Cuenta_Valen Etchegoyen,2,undirected
+Three Now_Valen Etchegoyen,Pull Up_Young Miko,1,undirected
+Three Now_Valen Etchegoyen,Stripper Diaries (Skit)_Young Miko,2,undirected
+Three Now_Valen Etchegoyen,young_miko_metadata.rda,5,undirected
+Trending_Young Miko,Butter_Snow Tha Product,3,undirected
+Trending_Young Miko,Kilimanjaro_Young Miko,3,undirected
+Trending_Young Miko,Muñekita_Kali Uchis,2,undirected
+Un Poquito_Young Miko,105 Freestyle_Young Miko,1,undirected
+Un Poquito_Young Miko,Chulo pt.2_Young Miko,3,undirected
+Un Poquito_Young Miko,Kachipun_Young Miko,2,undirected
+Vendetta_Young Miko,Kachipun_Young Miko,2,undirected
+Vendetta_Young Miko,Kilimanjaro_Young Miko,2,undirected
+Vendetta_Young Miko,Muñekita_Kali Uchis,4,undirected
+Vientitres_Gudnana,105 Freestyle_Young Miko,1,undirected
+Vientitres_Gudnana,AKA LESBIANA SERPIENTA_SASHA SATHYA,2,undirected
+Vientitres_Gudnana,young_miko_metadata.rda,3,undirected
+young_miko_metadata.rda,​​​mañana_Young Miko,3,undirected
+young_miko_metadata.rda,8 AM_Young Miko,3,undirected
+young_miko_metadata.rda,AKA LESBIANA SERPIENTA_SASHA SATHYA,3,undirected
+young_miko_metadata.rda,Ayer Soñé_Chzter,2,undirected
+young_miko_metadata.rda,Bien Bow_Chocolate Remix,3,undirected
+young_miko_metadata.rda,Bilingue_Snow Tha Product,1,undirected
+young_miko_metadata.rda,Butter_Snow Tha Product,3,undirected
+young_miko_metadata.rda,CONTIGO_KAROL G,3,undirected
+young_miko_metadata.rda,corpus_metadata.rda,6,undirected
+young_miko_metadata.rda,Curitas_Chzter,3,undirected
+young_miko_metadata.rda,Dime Como Hago_Maria Becerra,1,undirected
+young_miko_metadata.rda,Hipnotiza_Maria Becerra,3,undirected
+young_miko_metadata.rda,Lick My Pssy_Chzter,2,undirected
+young_miko_metadata.rda,Linda_Tokischa & Rosalía,2,undirected
+young_miko_metadata.rda,Mariposa_Isabella Lovestory,3,undirected
+young_miko_metadata.rda,Más Allá de Mis Ojeras_Chzter,1,undirected
+young_miko_metadata.rda,Mátame Marciana_Chzter,2,undirected
+young_miko_metadata.rda,Me Doy Cuenta_Valen Etchegoyen,3,undirected
+young_miko_metadata.rda,Muevas las Cachas_Chocolate Remix,3,undirected
+young_miko_metadata.rda,Muñekita_Kali Uchis,3,undirected
+young_miko_metadata.rda,Nieve_Snow Tha Product,3,undirected
+young_miko_metadata.rda,No Intentes Regresar_Valen Etchegoyen,2,undirected
+young_miko_metadata.rda,Pasajero_Nath,3,undirected
+young_miko_metadata.rda,Piña_Snow Tha Product,3,undirected
+young_miko_metadata.rda,Puerto Rican Mami_Young Miko,3,undirected
+young_miko_metadata.rda,Pull Up_Young Miko,4,undirected
+young_miko_metadata.rda,Putero_Young Miko,2,undirected
+young_miko_metadata.rda,QLONA_KAROL G,3,undirected
+young_miko_metadata.rda,Que Le Gusta el Flow_Snow Tha Product,2,undirected
+young_miko_metadata.rda,Smoke Break_Young Miko,3,undirected
+young_miko_metadata.rda,Standard_Young Miko,2,undirected
+young_miko_metadata.rda,Stripper Diaries (Skit)_Young Miko,3,undirected
+young_miko_metadata.rda,Stripper X_Young Miko,1,undirected
+young_miko_metadata.rda,Tempo_Young Miko,3,undirected
+young_miko_metadata.rda,Three Now_Valen Etchegoyen,5,undirected
+young_miko_metadata.rda,Vientitres_Gudnana,3,undirected
